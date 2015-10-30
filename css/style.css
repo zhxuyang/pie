@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 60px;
+    /*background: #f1f1f1;*/
+    font-family: "Microsoft YaHei", Helvetica, Arial, sans-serif;
+}
+
+p,h1,h2,h3,h4 {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.cf:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.w-1000 {
+    width: 1000px;
+    margin: auto;
+}
